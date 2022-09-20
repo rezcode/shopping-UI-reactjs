@@ -1,0 +1,18 @@
+.headlinePopular {
+  font-weight: bold;
+  padding: 0;
+  font-size: 34px;
+}
+
+.cardProduct {
+  cursor: pointer;
+  width: 240px;
+  margin-bottom: 15px;
+}
+
+.cardProduct img {
+  height: 160px;
+  width: 100%;
+  object-fit: contain;
+  padding-top: 5px;
+}

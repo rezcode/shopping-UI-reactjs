@@ -1,0 +1,26 @@
+.title {
+  font-weight: 600;
+  font-size: 28px;
+  margin: 0;
+}
+
+.price {
+  font-weight: 700;
+  font-size: 33px;
+}
+
+.buttonMin {
+  width: 38px;
+  margin-right: 5px;
+}
+
+.buttonPlus {
+  width: 38px;
+  border: 1px solid gray;
+  color: gray;
+  margin-left: 5px;
+}
+
+.buttonPlus:hover {
+  border: 1px solid gray !important;
+}

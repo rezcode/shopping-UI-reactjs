@@ -1,0 +1,10 @@
+.rating {
+  font-weight: 500;
+  font-size: 60px;
+}
+
+.ratingLine {
+  border: 3px solid red;
+  border-radius: 15px;
+  margin-top: 10px;
+}
